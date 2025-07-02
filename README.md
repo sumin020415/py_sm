@@ -27,6 +27,7 @@ Docker 컨테이너로 데이터베이스를 격리해 실무에 가까운 환�
 
 ## 프로젝트 구조
 
+```
 py*sm-main/
 │
 ├── python/ 파이썬 기초문법
@@ -39,6 +40,7 @@ py*sm-main/
 │ │ ├── python11*교통사고 유형별 발생분석.ipynb
 │ │ ├── python11*방범용 CCTV 위치분석.ipynb
 │ │ └── python11*지하철이용현황분석.ipynb
+```
 
 ---
 
